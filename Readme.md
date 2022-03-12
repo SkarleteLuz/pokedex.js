@@ -1,0 +1,1 @@
+O projeto visa a criação de uma pokédex utilizando HTML5, CSS3, Javascript e a lendária PokeApi / The project aims to create a pokédex using HTML5, CSS3, Javascript and the legendary PokeApi.
